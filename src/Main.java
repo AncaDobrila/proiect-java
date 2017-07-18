@@ -40,7 +40,7 @@ public class Main {
         System.out.println("Enter height:" );
         height = four.nextDouble();
         System.out.println("Height accepted " + height);
-
+            //INCERC SA VAD DACA MERGE GITHUB
         Scanner five = new Scanner(System.in);
         System.out.println("Enter weight:" );
         weight = five.nextDouble();
